@@ -1,0 +1,19 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "First React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinesh1873/NAMASTE-REACT.git"
+  },
+  "author": "Dinesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinesh1873/NAMASTE-REACT/issues"
+  },
+  "homepage": "https://github.com/dinesh1873/NAMASTE-REACT#readme"
+}
